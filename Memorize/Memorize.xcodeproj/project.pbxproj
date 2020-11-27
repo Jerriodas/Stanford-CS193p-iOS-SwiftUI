@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		880663B02570CF46008FDE4A /* MemoryGame.swift in Sources */ = {isa = PBXBuildFile; fileRef = 880663AF2570CF46008FDE4A /* MemoryGame.swift */; };
 		8892C10A257065EB00E34CD7 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8892C109257065EB00E34CD7 /* AppDelegate.swift */; };
 		8892C10C257065EB00E34CD7 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8892C10B257065EB00E34CD7 /* SceneDelegate.swift */; };
 		8892C10E257065EB00E34CD7 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8892C10D257065EB00E34CD7 /* ContentView.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		880663AF2570CF46008FDE4A /* MemoryGame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MemoryGame.swift; sourceTree = "<group>"; };
 		8892C106257065EB00E34CD7 /* Memorize.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Memorize.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8892C109257065EB00E34CD7 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		8892C10B257065EB00E34CD7 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				8892C109257065EB00E34CD7 /* AppDelegate.swift */,
 				8892C10B257065EB00E34CD7 /* SceneDelegate.swift */,
 				8892C10D257065EB00E34CD7 /* ContentView.swift */,
+				880663AF2570CF46008FDE4A /* MemoryGame.swift */,
 				8892C10F257065EB00E34CD7 /* Assets.xcassets */,
 				8892C114257065EB00E34CD7 /* LaunchScreen.storyboard */,
 				8892C117257065EB00E34CD7 /* Info.plist */,
@@ -147,6 +150,7 @@
 			files = (
 				8892C10A257065EB00E34CD7 /* AppDelegate.swift in Sources */,
 				8892C10C257065EB00E34CD7 /* SceneDelegate.swift in Sources */,
+				880663B02570CF46008FDE4A /* MemoryGame.swift in Sources */,
 				8892C10E257065EB00E34CD7 /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
