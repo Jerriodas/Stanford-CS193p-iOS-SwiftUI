@@ -10,6 +10,13 @@ import Foundation
 struct MemoryGame<CardContent> {
     var cards: Array<Card>
     
+    init(numberOfPairsOfCards: Int) {
+        cards = Array<Card>()
+        for pairIndex in 0 ..< numberOfPairsOfCards {
+         //   cards.append()
+        }
+    }
+    
     func choose(card: Card) {
         print("Card chosen: \(card)")
     }
